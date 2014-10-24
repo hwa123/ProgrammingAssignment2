@@ -5,7 +5,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
         ## Initialize the Inverse Property
-        i < NULL
+        i <- NULL
         ## Set Matrix
         set <- function(matrix) {
                 m <<- matrix
